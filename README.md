@@ -1,2 +1,1 @@
-# exercise
-Test exercise
+# Test exercise solutions
